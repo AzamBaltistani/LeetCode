@@ -46,9 +46,10 @@ This repository showcases my journey in solving algorithmic challenges, strength
 - and more... -->
 
 ## 🔗 Connect with Me
-- **LeetCode Profile**: [Insert Your LeetCode Profile Link]
-- **GitHub**: [Insert Your GitHub Profile Link]
-- **LinkedIn**: [Insert Your LinkedIn Profile Link]
+- **LinkedIn**: https://www.linkedin.com/in/sikander-azam-899822265/
+- **LeetCode Profile**: https://leetcode.com/u/sikanderazam276/
+- **GitHub**: https://github.com/AzamBaltistani
+
 
 ## 🤝 Contribution
 

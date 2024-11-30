@@ -16,7 +16,7 @@ Welcome to my **LeetCode Solutions Repository**! This repository contains my sol
 
 
 - File naming convention:
-    - `ProblemName_ProblemID_Language.extension`
+    - `ProblemID_ProblemName/technique_language.extension`
     - Example: `TwoSum_1_Python.py`
 
 ## 💻 Languages Used

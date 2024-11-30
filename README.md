@@ -24,26 +24,10 @@ Welcome to my **LeetCode Solutions Repository**! This repository contains my sol
 I am solving problems in various programming languages to enhance my problem-solving skills:
 - Python
 - C++
-<!-- 
-- C#
-- Java
-- JavaScript
-- MATLAB
--->
 
 ## 🚀 Motivation
 
 This repository showcases my journey in solving algorithmic challenges, strengthening my **algorithmic thinking** and **problem-solving skills**.
-
-<!-- ## 📂 Topics Covered
-- Arrays
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Backtracking
-- Sorting & Searching
-- and more... -->
 
 ## 🔗 Connect with Me
 - **LinkedIn**: https://www.linkedin.com/in/sikander-azam-899822265/
